@@ -1,6 +1,6 @@
 # Hi, I’m Brian Stauffer  
 
-Cybersecurity & Networking Enthusiast | CompTIA Network+ | Researcher in GPS Spoofing Detection  
+Cybersecurity & Networking Enthusiast | CompTIA Network+ | Cybersecurity Student at Coastline College  
 
 ---
 
