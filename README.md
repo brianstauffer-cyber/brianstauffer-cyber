@@ -21,11 +21,14 @@ Cybersecurity & Networking Enthusiast | CompTIA Network+ | Cybersecurity Student
 
 ---
 
-## Featured Projects
-🔹 [**GPS Spoofing Detection Manuscript**](#) – Deep Learning models (LSTM, CNN, Transformer) for securing AV navigation  
-🔹 [**Windows Server Lab**](#) – Active Directory, DNS, DHCP, and GPO setup with documentation  
-🔹 [**Security+ Labs**](#) – Hands-on labs covering social engineering, IDS/IPS, OpenVAS, firewalls, and encryption  
-🔹 [**Network Cheat Sheets**](#) – Subnetting, OSI model, protocols, and Wireshark filters  
+## 📂 Featured Projects  
+
+🔹 [**Research Project Manuscript**](https://github.com/brianstauffer-cyber/research-project-manuscript) – Deep learning models (LSTM, CNN, Transformer) for detecting GPS spoofing in autonomous vehicles.  
+
+🔹 [**Social Engineering Lab Report**](https://github.com/brianstauffer-cyber/social-engineering-lab-report) – Demonstrates phishing, payload generation, and reverse shell exploitation in a controlled lab environment.  
+
+🔹 [**Routing Protocols Lab Report**](https://github.com/brianstauffer-cyber/routing-protocols-lab-report) – Configured and verified RIP, OSPF, and BGP routing protocols in dual-stack IPv4/IPv6 networks.  
+
 
 
 
