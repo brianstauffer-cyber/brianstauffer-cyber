@@ -22,11 +22,8 @@ Cybersecurity & Networking Enthusiast | CompTIA Network+ | Cybersecurity Student
 ---
 
 ## 📂 Featured Projects  
-
 🔹 [**Research Project Manuscript**](https://github.com/brianstauffer-cyber/research-project-manuscript) – Deep learning models (LSTM, CNN, Transformer) for detecting GPS spoofing in autonomous vehicles.  
-
 🔹 [**Social Engineering Lab Report**](https://github.com/brianstauffer-cyber/social-engineering-lab-report) – Demonstrates phishing, payload generation, and reverse shell exploitation in a controlled lab environment.  
-
 🔹 [**Routing Protocols Lab Report**](https://github.com/brianstauffer-cyber/routing-protocols-lab-report) – Configured and verified RIP, OSPF, and BGP routing protocols in dual-stack IPv4/IPv6 networks.  
 
 
