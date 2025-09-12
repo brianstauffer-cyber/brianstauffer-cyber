@@ -27,7 +27,7 @@ Cybersecurity & Networking Enthusiast | CompTIA Network+ | Researcher in GPS Spo
 🔹 [**Security+ Labs**](#) – Hands-on labs covering social engineering, IDS/IPS, OpenVAS, firewalls, and encryption  
 🔹 [**Network Cheat Sheets**](#) – Subnetting, OSI model, protocols, and Wireshark filters  
 
-*(Replace `#` with your actual repo links once uploaded.)*
+
 
 ---
 
