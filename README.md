@@ -1,6 +1,6 @@
 # Hi, I’m Brian Stauffer  
 
-Cybersecurity & Networking Enthusiast | CompTIA Network+ | Cybersecurity Student at Coastline College  
+Cybersecurity & Machine Learning Enthusiast | CompTIA Security+, Network+, Server+, CNIP | Cybersecurity Student at Coastline College  
 
 ---
 
@@ -31,8 +31,7 @@ Cybersecurity & Networking Enthusiast | CompTIA Network+ | Cybersecurity Student
 
 ---
 
-## Current Goals
-- Complete **Security+ and Server+ certification exams (Dec 2025)**  
+## Current Goals 
 - Expand GitHub portfolio with **cybersecurity labs, server projects, and cloud security demos**  
 - Contribute to **open-source security and detection tools**  
 
