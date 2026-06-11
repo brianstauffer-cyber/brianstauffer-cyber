@@ -1,6 +1,6 @@
 # Hi, I’m Brian Stauffer  
 
-Cybersecurity & Machine Learning Enthusiast | CompTIA Security+, Network+, Server+, CNIP | Cybersecurity Student at Coastline College  
+Cybersecurity & Machine Learning Researcher | CompTIA CySA+, Security+, Network+, Server+, CNIP, CSAP |   
 
 ---
 
