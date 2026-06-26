@@ -5,7 +5,7 @@ Cybersecurity & Machine Learning Researcher | CompTIA CySA+, Security+, Network+
 ---
 
 ## About Me
-- Studying **Cybersecurity and IT Infrastructure**  
+- **Cybersecurity and IT Infrastructure Professional**  
 - Researching **Machine Learning-based GPS Spoofing Detection in Autonomous Vehicles**  
 - Hands-on with **Windows Server, Linux, VMware, Cloud Security, and Networking Labs**  
 - Passion for creating **technical write-ups, labs, and study guides**  
