@@ -13,11 +13,11 @@ Cybersecurity & Machine Learning Researcher | CompTIA CySA+, Security+, Network+
 ---
 
 ## Skills & Tools
-- **Cybersecurity**: Threat Detection, Incident Response, Vulnerability Scanning  
+- **Cybersecurity**: Threat Detection, Incident Response, Vulnerability Scanning, Malware analysis, Zero Trust Architecture  
 - **Networking**: TCP/IP, Firewalls, ACLs, VPNs, Wireshark, Packet Analysis  
-- **Systems & Servers**: Windows Server, Active Directory, Group Policy, Virtualization (VMware/VirtualBox)  
+- **Systems & Servers**: Windows Server, Active Directory, Group Policy, Virtualization (VMware/Hyper-V)  
 - **Programming/Scripting**: Python, Bash, PowerShell  
-- **Cloud & Tools**: AWS Basics, ELK/Wazuh, GitHub, SharePoint  
+- **Cloud & Tools**: Qualys, Prowler, Scout Suite, Pacu, Tenable, ELK Stack, Velociraptor, OWASP ZAP  
 
 ---
 
