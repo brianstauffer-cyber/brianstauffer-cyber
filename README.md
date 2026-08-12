@@ -1,6 +1,6 @@
 # Hi, I’m Brian Stauffer  
 
-Cybersecurity & Machine Learning Researcher | CompTIA CySA+, Security+, Network+, Server+, CNIP, CSAP |   
+Cybersecurity & Machine Learning Researcher | CompTIA CySA+, Security+, Network+, Server+, CNIP, CSAP   
 
 ---
 
