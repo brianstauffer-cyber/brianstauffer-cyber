@@ -23,6 +23,7 @@ Cybersecurity & Machine Learning Researcher | CompTIA CySA+, Security+, Network+
 
 ## 📂 Featured Projects  
 🔹 [**SOC Incident Response Investigation**](https://github.com/brianstauffer-cyber/SOC-incident-response-investigation) – SOC investigation of an Active Directory compromise, including SIEM analysis, attack timeline, indicators of compromise, MITRE ATT&CK mapping, and remediation recommendations.
+
 🔹 [**Research Project Manuscript**](https://github.com/brianstauffer-cyber/research-project-manuscript) – Deep learning models (LSTM, CNN, Transformer) for detecting GPS spoofing in autonomous vehicles.  
 🔹 [**Social Engineering Lab Report**](https://github.com/brianstauffer-cyber/social-engineering-lab-report) – Demonstrates phishing, payload generation, and reverse shell exploitation in a controlled lab environment.  
 🔹 [**Routing Protocols Lab Report**](https://github.com/brianstauffer-cyber/routing-protocols-lab-report) – Configured and verified RIP, OSPF, and BGP routing protocols in dual-stack IPv4/IPv6 networks.  
