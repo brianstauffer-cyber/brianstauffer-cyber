@@ -37,10 +37,10 @@ Cybersecurity & Machine Learning Researcher | CompTIA CySA+, Security+, Network+
 
 ---
 
-## Connect with Me
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
-- LinkedIn: *(optional: add link here)*  
-- Email: *(optional: add here)*  
+
+
+  
+
 
 ---
 ⭐️ *Thanks for visiting my profile! Check out my projects below 👇*
